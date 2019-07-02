@@ -44,3 +44,8 @@
     99-2. Database 이슈    
     99-3. 기타 이슈
 
+
+<source lang='console'>
+[root@zetawiki ~]# rpm -ev epel-release-6-8.noarch
+[root@zetawiki ~]# rpm -qa | grep epel-release
+</source>
