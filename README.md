@@ -9,11 +9,11 @@
 #### 3. 서버의 용도는 기본 웹서비스 Webservice 를 위한 설정이며, 필요에 따라 다른 기능이 추가될 수 있습니다.
 
 #### 4. 기본 설치/사용 서비스 패키지는 아래와 같습니다.
-4-1. Webserver : NginX 1.X
+    4-1. Webserver : NginX 1.X
 
-4-2. Database : MariaDB 5.X
+    4-2. Database : MariaDB 5.X
 
-4-3. Server side script : PHP 7.X
+    4-3. Server side script : PHP 7.X
 
 ###### 패키지 버젼은 설치 시기에 따라 달라질 수 있습니다.
 
